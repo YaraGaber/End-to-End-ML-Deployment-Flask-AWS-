@@ -1,0 +1,8 @@
+[ 2026-04-13 23:02:29,703 ] 97 werkzeug - WARNING -  * Debugger is active!
+[ 2026-04-13 23:02:29,707 ] 97 werkzeug - INFO -  * Debugger PIN: 929-091-594
+[ 2026-04-13 23:02:34,563 ] 97 werkzeug - INFO - 127.0.0.1 - - [13/Apr/2026 23:02:34] "[35m[1mPOST /predictdata HTTP/1.1[0m" 500 -
+[ 2026-04-13 23:02:34,712 ] 97 werkzeug - INFO - 127.0.0.1 - - [13/Apr/2026 23:02:34] "[36mGET /predictdata?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+[ 2026-04-13 23:02:34,737 ] 97 werkzeug - INFO - 127.0.0.1 - - [13/Apr/2026 23:02:34] "[36mGET /predictdata?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+[ 2026-04-13 23:02:34,814 ] 97 werkzeug - INFO - 127.0.0.1 - - [13/Apr/2026 23:02:34] "GET /predictdata?__debugger__=yes&cmd=resource&f=console.png&s=qitZN11OxeFBUSPh9A6Z HTTP/1.1" 200 -
+[ 2026-04-13 23:02:34,824 ] 97 werkzeug - INFO - 127.0.0.1 - - [13/Apr/2026 23:02:34] "[36mGET /predictdata?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+[ 2026-04-13 23:04:31,736 ] 97 werkzeug - INFO -  * Detected change in 'C:\\Users\\yarag\\Downloads\\\u0645\u062d\u062a\u0648\u0649\\\u2518‡œ°œ¨\u2518Í\u2518Î\\Deployment\\Lab\\src\\pipeline\\predict_pipeline.py', reloading
