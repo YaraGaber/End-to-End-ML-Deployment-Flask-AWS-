@@ -1,4 +1,4 @@
- End-to-End ML Deployment: Student Performance Prediction
+ **End-to-End ML Deployment: Student Performance Prediction**
 
 This project demonstrates a complete **Machine Learning pipeline**, from data ingestion and transformation to model deployment on **AWS Elastic Beanstalk**. It predicts student performance based on various demographic and academic factors.
 
